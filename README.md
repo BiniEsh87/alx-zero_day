@@ -1,14 +1,13 @@
 #ALX 
 
-
 [![N|Solid](https://binishare.com/binishare_logo_ico.png)]
 
-## #Learning now
+## Learning now
 
-> bash
-> emacs
-> git
+* bash
+* emacs
+* git
 
-This project consists of bash, github and more indepth on C.
+`This project consists of bash, github and vagrant usage`
 
-## #Tech
+## Tech
